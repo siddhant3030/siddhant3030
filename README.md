@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
 <h3 align="center">A Software Developer who's exploring Data Engineering Field</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant3030&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant3030" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant3030" alt="siddhant3030" /></a> </p>
 
 - 🔭 I’m currently working on [Development Data Platform](https://github.com/DevDataPlatform/DDP_backend)
