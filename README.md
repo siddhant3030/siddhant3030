@@ -15,6 +15,26 @@
 
 - 📫 How to reach me **ssiddhant3030@gmail.com**
 
+### :newspaper: Blog Posts
+
+- [DDP – Learning from NGO’s](https://projecttech4dev.org/2023/04/04/ddp-learning-from-ngos/)
+- [Dev Data Platform – January Recap](https://projecttech4dev.org/2023/02/11/dev-data-platform-january-recap/)
+- [My journey through building a Data Pipeline + Thoughts on Jaipur Sprint](https://projecttech4dev.org/2022/12/20/my-journey-through-building-a-data-pipeline/)
+- [R MAPPING AND LEAFLET](https://glific.org/r-mapping-and-leaflet/)
+- [GOOGLE ASR](https://glific.org/google-asr/)
+
+### :computer: Work
+
+Finding meaningful solutions in a scalable way.
+
+- [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
+- [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
+- [Airbyte](https://github.com/airbytehq/airbyte) - Building connectors for different NGO's. 
+- [DBT work for SHRI](https://github.com/DevDataPlatform/dbt_shri) - This is transformation tool particularly for SHRI NGO.
+- [DBT work for Sneha](https://github.com/DevDataPlatform/dbt_sneha) - This is transformation tool particularly for Sneha NGO.
+- [DBT work for STIR](https://github.com/DevDataPlatform/dbt_stir) - This is transformation tool particularly for STIR NGO.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
