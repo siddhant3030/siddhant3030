@@ -31,6 +31,11 @@ Finding meaningful solutions in a scalable way.
 - [DBT work for SHRI](https://github.com/DevDataPlatform/dbt_shri) - This is transformation tool particularly for SHRI NGO.
 - [DBT work for Sneha](https://github.com/DevDataPlatform/dbt_sneha) - This is transformation tool particularly for Sneha NGO.
 - [DBT work for STIR](https://github.com/DevDataPlatform/dbt_stir) - This is transformation tool particularly for STIR NGO.
+- [DBT work for ATECF](https://github.com/DalgoT4D/dbt_atcef) - This is transformation tool particularly for ATECF NGO.
+- [DBT work for ARGHYAM](https://github.com/DalgoT4D/dbt_arghyam) - This is transformation tool particularly for ARGHYAM NGO.
+- [DBT work for SHOFCO](https://github.com/DalgoT4D/dbt_shofco.git) - This is transformation tool particularly for SHOFCO NGO.
+- [DBT work for UMMEED](https://github.com/DalgoT4D/dbt_ummeed) - This is transformation tool particularly for UMMEED NGO
+
 
 
 <h3 align="left">Connect with me:</h3>
